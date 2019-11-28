@@ -10,18 +10,7 @@
       "lat-long": "33.981947, -84.234361",
       "image_url": 
         "https://e28-p3-sra.s3.amazonaws.com/images/bear19.gif"
-    },
-    {
-      "id": 2019112817490001,
-      "description": "Fox",
-      "date": "2019-11-28",
-      "time": "1749EDT",
-      "creature": "fox",
-      "name": "Spalding fox",
-      "lat-long": "33.921862, -84.144361",
-      "image_url": 
-        "https://e28-p3-sra.s3.amazonaws.com/images/foxthumbsup.gif"
-    } 
+    }
   ], 
   "profile": {
     "name": "typicode"
