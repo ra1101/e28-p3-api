@@ -12,23 +12,6 @@
         "https://e29-p3-sra.s3.amazonaws.com/images/bear19.gif"
     }
   ], 
-  "comments": [
-    {
-      "id": 2019110307010001,
-      "entries": [
-           {
-               "comment-date": "2019-11-03",
-               "body": "Looks pretty healthy.  Should be harmless except to acorns"
-           }
-      ],
-      "body": "some comment"
-    },
-    {
-      "id": 2019110307010002,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
   "profile": {
     "name": "typicode"
   }
