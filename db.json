@@ -8,13 +8,10 @@
       "creature": "bear",
       "name": "Freddie Smooth",
       "lat-long": "33.981947, -84.234361",
-      "images": [
-        "https://e28-p3-sra.s3.amazonaws.com/images/bear19.gif",
-      ],
-      "videos": [
-      ],
-    },
-  ],
+      "image_url": 
+        "https://e29-p3-sra.s3.amazonaws.com/images/bear19.gif"
+    }
+  ], 
   "comments": [
     {
       "id": 2019110307010001,
@@ -24,10 +21,10 @@
                "body": "Looks pretty healthy.  Should be harmless except to acorns"
            }
       ],
-      "body": "some comment",
+      "body": "some comment"
     },
     {
-      "id": 2,
+      "id": 2019110307010002,
       "body": "some comment",
       "postId": 1
     }
