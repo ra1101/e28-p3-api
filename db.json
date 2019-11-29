@@ -7,6 +7,8 @@
       "time": "0701EDT",
       "creature": "bear",
       "name": "Freddie Smooth",
+      "class": "predator",
+      "neighborhood": "Peachtree Station",
       "lat-long": "33.981947, -84.234361",
       "image_url": 
         "https://e28-p3-sra.s3.amazonaws.com/images/bear19.gif"
@@ -18,10 +20,23 @@
       "time": "1749EDT",
       "creature": "fox",
       "name": "Spalding fox",
-      "lat-long": "33.921862, -84.144361",
+      "class": "predator",
+      "neighborhood": "Neely Farm",
+      "lat-long": "33.982076, -84.256870",
       "image_url": 
         "https://e28-p3-sra.s3.amazonaws.com/images/foxthumbsup.gif"
-    } 
+    },
+    {
+      "id": 2019112817490002,
+      "description": "Racoon in the trash cans again",
+      "date": "2019-11-28",
+      "time": "0613EDT",
+      "creature": "racoon",
+      "name": "Rocco",
+      "class": "nuisance",
+      "neighborhood": "Neely Farm",
+      "lat-long": "33.978571, -84.253844",
+      "image_url": 
   ], 
   "profile": {
     "name": "typicode"
