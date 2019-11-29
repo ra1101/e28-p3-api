@@ -36,7 +36,8 @@
       "class": "nuisance",
       "neighborhood": "Neely Farm",
       "lat-long": "'33.978571, -84.253844'",
-      "image_url": "" 
+      "image_url": 
+        "https://e28-p3-sra.s3.amazonaws.com/images/raccoontrash.jpg"
     },
     {
       "id": 2019111811020001,
