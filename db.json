@@ -9,7 +9,7 @@
       "name": "Freddie Smooth",
       "class": "predator",
       "neighborhood": "Peachtree Station",
-      "lat-long": "33.981947, -84.234361",
+      "lat-long": "'33.981947, -84.234361'",
       "image_url": 
         "https://e28-p3-sra.s3.amazonaws.com/images/bear19.gif"
     },
@@ -22,7 +22,7 @@
       "name": "Spalding fox",
       "class": "predator",
       "neighborhood": "Neely Farm",
-      "lat-long": "33.982076, -84.256870",
+      "lat-long": "'33.982076, -84.256870'",
       "image_url": 
         "https://e28-p3-sra.s3.amazonaws.com/images/foxthumbsup.gif"
     },
@@ -35,8 +35,33 @@
       "name": "Rocco",
       "class": "nuisance",
       "neighborhood": "Neely Farm",
-      "lat-long": "33.978571, -84.253844",
-      "image_url": 
+      "lat-long": "'33.978571, -84.253844'",
+      "image_url": "" 
+    },
+    {
+      "id": 2019111811020001,
+      "description": "Racoon in the living room again",
+      "date": "2019-11-18",
+      "time": "1102EDT",
+      "creature": "racoon",
+      "name": "George",
+      "class": "nuisance",
+      "neighborhood": "Neely Farm",
+      "lat-long": "'33.978571, -84.253844'",
+      "image_url": "https://e28-p3-sra.s3.amazonaws.com/images/raccoon3.gif" 
+    },
+    {
+      "id": 2019112817490002,
+      "description": "Neighbor keeping illegal livestock",
+      "date": "2019-11-28",
+      "time": "0900EDT",
+      "creature": "llama",
+      "name": "unknown",
+      "class": "nuisance",
+      "neighborhood": "Neely Farm",
+      "lat-long": "'33.978571, -84.253844'",
+      "image_url": "https://e28-p3-sra.s3.amazonaws.com/images/llama.jpg" 
+    }
   ], 
   "profile": {
     "name": "typicode"
